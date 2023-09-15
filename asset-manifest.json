@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sathiskumar30/Crud.git/static/css/main.96a17479.css",
+    "main.js": "/sathiskumar30/Crud.git/static/js/main.544d62f4.js",
+    "index.html": "/sathiskumar30/Crud.git/index.html",
+    "main.96a17479.css.map": "/sathiskumar30/Crud.git/static/css/main.96a17479.css.map",
+    "main.544d62f4.js.map": "/sathiskumar30/Crud.git/static/js/main.544d62f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96a17479.css",
+    "static/js/main.544d62f4.js"
+  ]
+}
