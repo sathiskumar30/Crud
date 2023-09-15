@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sathiskumar30/Crud.git/static/css/main.96a17479.css",
-    "main.js": "/sathiskumar30/Crud.git/static/js/main.4685570a.js",
-    "index.html": "/sathiskumar30/Crud.git/index.html",
-    "main.96a17479.css.map": "/sathiskumar30/Crud.git/static/css/main.96a17479.css.map",
-    "main.4685570a.js.map": "/sathiskumar30/Crud.git/static/js/main.4685570a.js.map"
+    "main.css": "/Crud/static/css/main.96a17479.css",
+    "main.js": "/Crud/static/js/main.4685570a.js",
+    "index.html": "/Crud/index.html",
+    "main.96a17479.css.map": "/Crud/static/css/main.96a17479.css.map",
+    "main.4685570a.js.map": "/Crud/static/js/main.4685570a.js.map"
   },
   "entrypoints": [
     "static/css/main.96a17479.css",
