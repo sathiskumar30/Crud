@@ -10,7 +10,6 @@ function App() {
   return (
     <main>
       <BrowserRouter>
-      a
       <Routes>
           <Route path="/Crud" element={<List/>}/>
           <Route path="/list" element={<List/>}/>
