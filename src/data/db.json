@@ -1,0 +1,14 @@
+ {
+    "list":[
+        {
+            "id":1,
+            "name":"sathis kumar",
+            "age":24
+        },
+        {
+            "id":2,
+            "name":"kumar",
+            "age":29
+        }
+    ]
+ }
